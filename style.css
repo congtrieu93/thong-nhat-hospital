@@ -358,12 +358,12 @@ body {
 
 .hero-content .entry-footer .btn {
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
-    padding: 16px 40px;
+    padding: 10px 10px;
     border-radius: 0;
-    margin-right: 20px;
+    margin-right: 10px;
     color: hsl(0, 0%, 0%);
     font-weight: 600;
-    width: 180px;
+    width: 160px;
 }
 
 .btn.btn-primary:hover,
